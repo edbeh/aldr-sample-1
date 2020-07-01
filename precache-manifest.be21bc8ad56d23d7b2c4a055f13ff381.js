@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "932befc1fb79637802951dcdb7533e3c",
+    "revision": "312cc982ed40636e4d5f497cc1cafd66",
     "url": "/aldr-sample-1/index.html"
   },
   {
-    "revision": "bc383194f7f3f34b80ea",
-    "url": "/aldr-sample-1/static/css/main.33c1b0d4.chunk.css"
+    "revision": "c04ec52647f204fba077",
+    "url": "/aldr-sample-1/static/css/main.b5b92149.chunk.css"
   },
   {
     "revision": "fc0eaf6bdf31ff76034b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aldr-sample-1/static/js/2.27728d29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc383194f7f3f34b80ea",
+    "revision": "c04ec52647f204fba077",
     "url": "/aldr-sample-1/static/js/main.1c92b4a0.chunk.js"
   },
   {

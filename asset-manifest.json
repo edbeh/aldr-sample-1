@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aldr-sample-1/static/css/main.33c1b0d4.chunk.css",
+    "main.css": "/aldr-sample-1/static/css/main.b5b92149.chunk.css",
     "main.js": "/aldr-sample-1/static/js/main.1c92b4a0.chunk.js",
     "main.js.map": "/aldr-sample-1/static/js/main.1c92b4a0.chunk.js.map",
     "runtime-main.js": "/aldr-sample-1/static/js/runtime-main.d1069e38.js",
@@ -8,15 +8,15 @@
     "static/js/2.27728d29.chunk.js": "/aldr-sample-1/static/js/2.27728d29.chunk.js",
     "static/js/2.27728d29.chunk.js.map": "/aldr-sample-1/static/js/2.27728d29.chunk.js.map",
     "index.html": "/aldr-sample-1/index.html",
-    "precache-manifest.577fb7f4a70c15bbb798a19cd8e48de7.js": "/aldr-sample-1/precache-manifest.577fb7f4a70c15bbb798a19cd8e48de7.js",
+    "precache-manifest.be21bc8ad56d23d7b2c4a055f13ff381.js": "/aldr-sample-1/precache-manifest.be21bc8ad56d23d7b2c4a055f13ff381.js",
     "service-worker.js": "/aldr-sample-1/service-worker.js",
-    "static/css/main.33c1b0d4.chunk.css.map": "/aldr-sample-1/static/css/main.33c1b0d4.chunk.css.map",
+    "static/css/main.b5b92149.chunk.css.map": "/aldr-sample-1/static/css/main.b5b92149.chunk.css.map",
     "static/js/2.27728d29.chunk.js.LICENSE.txt": "/aldr-sample-1/static/js/2.27728d29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1069e38.js",
     "static/js/2.27728d29.chunk.js",
-    "static/css/main.33c1b0d4.chunk.css",
+    "static/css/main.b5b92149.chunk.css",
     "static/js/main.1c92b4a0.chunk.js"
   ]
 }
