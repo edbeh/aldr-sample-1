@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aldr-sample-1/static/css/main.7484775f.chunk.css",
+    "main.js": "/aldr-sample-1/static/js/main.08b331c8.chunk.js",
+    "main.js.map": "/aldr-sample-1/static/js/main.08b331c8.chunk.js.map",
+    "runtime-main.js": "/aldr-sample-1/static/js/runtime-main.d1069e38.js",
+    "runtime-main.js.map": "/aldr-sample-1/static/js/runtime-main.d1069e38.js.map",
+    "static/js/2.27728d29.chunk.js": "/aldr-sample-1/static/js/2.27728d29.chunk.js",
+    "static/js/2.27728d29.chunk.js.map": "/aldr-sample-1/static/js/2.27728d29.chunk.js.map",
+    "index.html": "/aldr-sample-1/index.html",
+    "precache-manifest.01e650d9631fc0bafd3a9a3a656d576d.js": "/aldr-sample-1/precache-manifest.01e650d9631fc0bafd3a9a3a656d576d.js",
+    "service-worker.js": "/aldr-sample-1/service-worker.js",
+    "static/css/main.7484775f.chunk.css.map": "/aldr-sample-1/static/css/main.7484775f.chunk.css.map",
+    "static/js/2.27728d29.chunk.js.LICENSE.txt": "/aldr-sample-1/static/js/2.27728d29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1069e38.js",
+    "static/js/2.27728d29.chunk.js",
+    "static/css/main.7484775f.chunk.css",
+    "static/js/main.08b331c8.chunk.js"
+  ]
+}
